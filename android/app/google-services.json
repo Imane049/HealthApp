@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959561654544",
+    "project_id": "healthtracker-f288f",
+    "storage_bucket": "healthtracker-f288f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959561654544:android:8984eb8d21b218ab288595",
+        "android_client_info": {
+          "package_name": "com.health.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9HGal8zG8BdCViLmCPf0Amf3UGQgHkv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
